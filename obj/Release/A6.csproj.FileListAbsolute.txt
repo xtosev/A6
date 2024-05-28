@@ -1,0 +1,12 @@
+C:\Users\PC4815\Documents\Danilo Tosev\A6\bin\Release\A6.mdf
+C:\Users\PC4815\Documents\Danilo Tosev\A6\bin\Release\A6_log.ldf
+C:\Users\PC4815\Documents\Danilo Tosev\A6\bin\Release\A6.exe.config
+C:\Users\PC4815\Documents\Danilo Tosev\A6\bin\Release\A6.exe
+C:\Users\PC4815\Documents\Danilo Tosev\A6\bin\Release\A6.pdb
+C:\Users\PC4815\Documents\Danilo Tosev\A6\obj\Release\A6.csproj.AssemblyReference.cache
+C:\Users\PC4815\Documents\Danilo Tosev\A6\obj\Release\A6.Form1.resources
+C:\Users\PC4815\Documents\Danilo Tosev\A6\obj\Release\A6.Properties.Resources.resources
+C:\Users\PC4815\Documents\Danilo Tosev\A6\obj\Release\A6.csproj.GenerateResource.cache
+C:\Users\PC4815\Documents\Danilo Tosev\A6\obj\Release\A6.csproj.CoreCompileInputs.cache
+C:\Users\PC4815\Documents\Danilo Tosev\A6\obj\Release\A6.exe
+C:\Users\PC4815\Documents\Danilo Tosev\A6\obj\Release\A6.pdb

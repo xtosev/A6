@@ -1,0 +1,24 @@
+C:\Users\PC4815\Documents\Danilo Tosev\A6\bin\Debug\A6.mdf
+C:\Users\PC4815\Documents\Danilo Tosev\A6\bin\Debug\A6.exe.config
+C:\Users\PC4815\Documents\Danilo Tosev\A6\bin\Debug\A6.exe
+C:\Users\PC4815\Documents\Danilo Tosev\A6\bin\Debug\A6.pdb
+C:\Users\PC4815\Documents\Danilo Tosev\A6\obj\Debug\A6.csproj.AssemblyReference.cache
+C:\Users\PC4815\Documents\Danilo Tosev\A6\obj\Debug\A6.Form1.resources
+C:\Users\PC4815\Documents\Danilo Tosev\A6\obj\Debug\A6.Properties.Resources.resources
+C:\Users\PC4815\Documents\Danilo Tosev\A6\obj\Debug\A6.csproj.GenerateResource.cache
+C:\Users\PC4815\Documents\Danilo Tosev\A6\obj\Debug\A6.csproj.CoreCompileInputs.cache
+C:\Users\PC4815\Documents\Danilo Tosev\A6\obj\Debug\A6.exe
+C:\Users\PC4815\Documents\Danilo Tosev\A6\obj\Debug\A6.pdb
+C:\Users\PC4815\Documents\Danilo Tosev\A6\bin\Debug\A6_log.ldf
+C:\Users\Daki\Downloads\A6\bin\Debug\A6.mdf
+C:\Users\Daki\Downloads\A6\bin\Debug\A6_log.ldf
+C:\Users\Daki\Downloads\A6\bin\Debug\A6.exe.config
+C:\Users\Daki\Downloads\A6\bin\Debug\A6.exe
+C:\Users\Daki\Downloads\A6\bin\Debug\A6.pdb
+C:\Users\Daki\Downloads\A6\obj\Debug\A6.csproj.AssemblyReference.cache
+C:\Users\Daki\Downloads\A6\obj\Debug\A6.Form1.resources
+C:\Users\Daki\Downloads\A6\obj\Debug\A6.Properties.Resources.resources
+C:\Users\Daki\Downloads\A6\obj\Debug\A6.csproj.GenerateResource.cache
+C:\Users\Daki\Downloads\A6\obj\Debug\A6.csproj.CoreCompileInputs.cache
+C:\Users\Daki\Downloads\A6\obj\Debug\A6.exe
+C:\Users\Daki\Downloads\A6\obj\Debug\A6.pdb
